@@ -30,7 +30,8 @@ In [./mobile](mobile) run:
 
 A new browser tab will open, there you can see logs, running informations, QR Code of application connection, and set configurations. Connect your mobile device and PC in the same network connection and it's possible to use LAN connection of Expo (another options are able following Expo documentation).
 
-- Open, Expo app on the mobile device;
+- Turn on the GPS on the mobile device;
+- Open, Expo app;
 - Scan QR Code of application connection.
 
 Wait a moment to load the app and then browse it. Write UF and City of the point you created in web application, click enter, and select items the point collect, the point will appear in the map in the same location you choose before
